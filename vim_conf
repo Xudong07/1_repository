@@ -1,5 +1,5 @@
-set nu
-syntax on
+#set nu
+#syntax on
 set showcmd
 autocmd InsertLeave * se nocul
 autocmd InsertEnter * se cul
